@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30190#Around-the-World-with-Josiah-Allen-s-Wife
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2009-10-06'
 gutenberg_type: Text
